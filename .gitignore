@@ -1,0 +1,5 @@
+/bundles
+/.terraform*
+/terraform.*
+/node_modules
+/todo.txt
