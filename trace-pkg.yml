@@ -1,0 +1,5 @@
+packages:
+  books:
+    output: bundles/books_lambda.zip
+    trace:
+      - books_lambda.js
